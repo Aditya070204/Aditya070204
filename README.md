@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aditya Pandey</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
-<h3 align="left">Connect with me: _adi_2004</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/_adi_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_adi_2004" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
